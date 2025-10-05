@@ -42961,7 +42961,7 @@ l=A.aC(["chat_id","-1001588555510","text",a],l,l)
 k=A.aQN()
 k.a="POST"
 s=7
-return A.M(n.a.a.HZ("/bot7867388678:AAGAjN8_VK1_Ik1THAXRfv3G_2kd35zHD-U/sendMessage",null,l,null,null,k,null,t.z),$async$v7)
+return A.M(n.a.a.HZ("/bot/sendMessage",null,l,null,null,k,null,t.z),$async$v7)
 case 7:q=new A.mZ(null,t.tX)
 s=1
 break
